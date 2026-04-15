@@ -86,7 +86,9 @@ body {
   margin: auto;
   font-size: 30px;
 }
-
+.me{
+  text-align:center;
+}
 .content li {
   background-color: #0db47d;
   padding: 5px;
